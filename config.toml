@@ -1,4 +1,4 @@
-baseURL = "https://the-token-org.github.io/"
+baseURL = "http://the-token.org/"
 languageCode = "en-us"
 theme = "hugo-winston-theme"
 themesDir = "themes"
