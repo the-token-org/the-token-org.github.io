@@ -5,8 +5,8 @@ title = 'The Token'
 
 ## Site Settings
 [params]
-logo = "assets/img/logo.webp"
-favicon = "assets/favicon.png"
+logo = "assets/img/logo.png"
+favicon = "assets/img/logo.png"
 
 # Info
 # address = "123 Arch B1W, GNU/Linux"
