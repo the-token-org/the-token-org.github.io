@@ -1,5 +1,4 @@
 baseURL = "http://the-token.org/"
-<<<<<<< HEAD
 languageCode = 'en-us'
 theme = 'graysx'
 title = 'The Token'
