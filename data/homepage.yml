@@ -4,7 +4,7 @@ main:
     title : "The Token" # Title Text
     description : "The open community for all NLP people." # Title Desc
     button:
-      text: "Join Us" # Button Text
+      text: "Join Our Discord" # Button Text
       url: "https://discord.gg/j3q3fDYkxX" # Button URL
 
 # About
