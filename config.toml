@@ -1,6 +1,6 @@
 baseURL = "http://the-token.org/"
 languageCode = 'en-us'
-theme = 'graysx'
+# theme = 'graysx'
 title = 'The Token'
 
 ## Site Settings
